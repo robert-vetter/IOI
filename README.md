@@ -1,3 +1,10 @@
-# IOI Qualification Round
+# Informatics Olympiad — Qualification Rounds
 
-I was selected as one of the top 60 Computer Science talents in Germany. This repository contains my contest files for the International Olympiad in Informatics (IOI) qualification round.
+My solution files from the German national Informatics Olympiad qualification
+rounds, where I scored 370/600 points and was selected among the top 60
+participants. Mostly C++.
+
+## Contents
+
+- `Intro1/`, `Intro2/` — introductory tasks
+- `0 Quali Contest 1/`, `0 Quali Contest 2/` — qualification contest problems and my solutions

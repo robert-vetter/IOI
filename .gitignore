@@ -1,0 +1,9 @@
+# Build artifacts
+*.o
+*.exe
+obj/
+bin/
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
